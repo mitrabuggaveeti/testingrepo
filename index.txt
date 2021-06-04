@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hello world !!!!! this is about git and github
-=======
 Hello world !!!!!
 from github
->>>>>>> a64e291a6f9516d09c09024aa9014bcfdfee7712
